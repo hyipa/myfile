@@ -33,11 +33,11 @@
                 <key>bundle-identifier</key>
                 <string>com.cctv.cctv5ultimate</string>
                 <key>bundle-version</key>
-                <string>1.1</string>
+                <string>1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>我的IO</string>
+                <string>央视体育</string>
             </dict>
         </dict>
     </array>
