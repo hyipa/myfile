@@ -17,7 +17,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://ipatest.oss-cn-shanghai.aliyuncs.com/512512.png</string>
+                    <string>https://github.com/hyipa/myfile/blob/main/512512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -25,13 +25,13 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://ipatest.oss-cn-shanghai.aliyuncs.com/5757.png</string>
+                    <string>https://github.com/hyipa/myfile/blob/main/5757.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.apple.compilers.llvm.clang.1_0</string>
+                <string>com.luowenli.czhushou</string>
                 <key>bundle-version</key>
                 <string>1.1</string>
                 <key>kind</key>
